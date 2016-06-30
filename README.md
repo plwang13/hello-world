@@ -1,2 +1,5 @@
 # hello-world
-Instructional repository
+
+Hello World,
+
+This is an intro to how to use GitHub. Wubbalubbadubdub!!!
